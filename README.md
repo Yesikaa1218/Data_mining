@@ -30,5 +30,5 @@ Este repositorio contiene diversas prácticas y proyectos que ilustran diferente
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone <link del repositorio actual>
+   git clone <https://github.com/Yesikaa1218/Data_mining.git>
    cd data-mining

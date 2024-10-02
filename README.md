@@ -2,7 +2,7 @@
 
 Este repositorio contiene diversas prácticas y proyectos que ilustran diferentes técnicas de minería de datos utilizando Python. Cada sección incluye ejemplos prácticos de distintas metodologías, desde la adquisición de datos hasta la implementación de modelos avanzados.
 
-# Contenido del Repositorio
+## Contenido del Repositorio
 
 - **Adquisición de Datos**: Métodos para obtener datos de diversas fuentes, incluyendo APIs, web scraping y archivos CSV.
 - **Limpieza de Datos**: Técnicas para preparar los datos para su análisis, que incluyen el manejo de valores nulos y la normalización.
@@ -15,7 +15,7 @@ Este repositorio contiene diversas prácticas y proyectos que ilustran diferente
 - **Clasificación de Datos**: Técnicas de clasificación para categorizar datos en diferentes grupos.
 - **Clustering**: Métodos de agrupamiento para identificar patrones y segmentar datos.
 
-# Tecnologías Usadas
+## Tecnologías Usadas
 
 - Python
 - Pandas
